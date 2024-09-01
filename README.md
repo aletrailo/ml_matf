@@ -17,7 +17,7 @@ Klasifikacija na osnovu tema:
 
 Klasifikacija na osnovu emocija:
 - Koriscen je restnet18
-- Dostigli smo validacionu tacno od 93%.
+- Dostigli smo validacionu tacnost od 93%.
 - Smanjili smo skup podataka I uradili oversampling kako bi podaci bili ravnomerno rasporedjeni po klasama
 - Ciljna promenljiva se sastoji od 8 klasa, a svaka instanca moze pripadati u vise klasa
 - Prikazane su I matrice konfuzije sa TP, FN, FP, TN vrednostima po klasama
